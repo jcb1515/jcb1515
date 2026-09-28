@@ -19,18 +19,12 @@ Electrical Engineering student at the University of Waterloo building across **e
 - **WATonomous** — Working on electrical integration for a humanoid robot, including wiring, sensors, actuators, and ROS 2 interfaces.
 - **Applied ML research** — Studying whether explanation drift can help detect model errors under real-world distribution shift.
 
-## Selected work
+## Skills
 
-- **[Astrono Jarvis](https://github.com/jcb1515/Jarvis)** — A local-first, voice-controlled AI assistant combining Qwen through Ollama, Whisper, a real-time 3D interface, and confirmation-gated tools.
-- **[Burn Shield](https://github.com/jcb1515/Ignition-Hacks)** — A hackathon-built startup-spend auditor that explains suspicious vendor costs, forecasts scenarios, and pauses for human approval.
-- **[Embedded systems & robotics](https://jamesboutrosweb.vercel.app)** — Custom PCB design, a self-righting robot, a four-microcontroller flight-control simulation, and Arduino sensor/control systems.
-- **[Model reliability research](https://jamesboutrosweb.vercel.app)** — Evaluating Logistic Regression, XGBoost, and TabPFN on hospital-readmission and U.S. Census housing datasets.
-- **[MicroLoop](https://jamesboutrosweb.vercel.app)** — An end-to-end SwiftUI productivity app built during the Career Education Council / Apple co-op and presented to Apple engineers.
-
-## Technical focus
-
-- **Hardware & embedded:** C++, Python, Altium Designer, ESP32, Arduino, PCB layout, soldering, hardware bring-up
-- **Robotics & systems:** ROS 2, MuJoCo, Isaac Sim, sensor/actuator integration, state machines, distributed control
-- **AI & software:** local inference, Whisper, MCP, Python, TypeScript, React, SwiftUI
+- **Embedded systems & hardware:** C++, Python, Altium Designer, schematic capture, PCB layout, soldering, hardware bring-up, ESP32, Arduino, sensor interfaces, and actuator integration.
+- **Robotics, controls & simulation:** ROS 2, state machines, distributed control, autonomous-vehicle electronics, multi-microcontroller flight-control simulation, MuJoCo, and Isaac Sim.
+- **AI, machine learning & data:** Logistic Regression, XGBoost, TabPFN, model evaluation, dataset analysis, explanation drift, and model reliability; local inference with Qwen/Ollama and speech interfaces with Whisper.
+- **Software & product development:** Python, TypeScript, React, SwiftUI, local-first applications, voice-controlled interfaces, real-time 3D UI, and MCP tool integrations with human-confirmation safeguards.
+- **Systems & prototyping:** physical-AI hardware concepts, MVP scoping, cross-disciplinary electrical integration, iterative prototyping, and hardware/software bring-up.
 
 **2× hackathon winner** · [Portfolio](https://jamesboutrosweb.vercel.app)
