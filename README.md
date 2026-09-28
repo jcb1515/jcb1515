@@ -15,8 +15,6 @@ Electrical Engineering student at the University of Waterloo building across **e
 ## Current work
 
 - **Phydata** — Co-founder and CTO of a physical-AI data infrastructure startup. I designed the MVP blueprint and hardware concepts; the company secured **$20K in early investment**.
-- **WARG** — Designing and bringing up custom PCBs for autonomous aerial vehicles.
-- **WATonomous** — Working on electrical integration for a humanoid robot, including wiring, sensors, actuators, and ROS 2 interfaces.
 - **Applied ML research** — Studying whether explanation drift can help detect model errors under real-world distribution shift.
 
 ## Skills
